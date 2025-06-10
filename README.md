@@ -40,11 +40,11 @@ Welcome to my LangChain learning journey! In this project, I’m exploring how t
 
 ##  Key Features
 
-✅ Create effective **prompt templates** for LLM tasks.
-✅ Run **parallel tasks** (e.g., summarization and quiz generation).
-✅ Merge outputs from different tasks using **prompt merging**.
-✅ Learn about **model limitations** (e.g., not all models support all tasks!).
-✅ Use environment variables for secure API key handling (via `.env` and `load_dotenv`).
+ Create effective **prompt templates** for LLM tasks.
+ Run **parallel tasks** (e.g., summarization and quiz generation).
+ Merge outputs from different tasks using **prompt merging**.
+ Learn about **model limitations** (e.g., not all models support all tasks!).
+ Use environment variables for secure API key handling (via `.env` and `load_dotenv`).
 
 ---
 
