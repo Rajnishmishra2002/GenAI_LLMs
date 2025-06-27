@@ -3,7 +3,7 @@
 Welcome to my LangChain learning journey! In this project, I’m exploring how to build powerful applications by leveraging **LangChain**, a framework designed to simplify the use of large language models (LLMs) in various workflows.
 
 
-## 📌 Project Topics
+## Project Topics
 
 ###  **Prompt Engineering**
 
